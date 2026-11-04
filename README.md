@@ -72,12 +72,11 @@ Team project · React + TypeScript frontend · Java 21 / Spring Boot API · Post
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thanhismeee&show_icons=true&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" alt="GitHub stats for Thanhismeee" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhismeee&layout=compact&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1&langs_count=8" alt="Most used languages in public repositories" />
+See my latest work, repositories, and contribution history on GitHub.
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanhismeee&bg_color=0f172a&color=cbd5e1&line=22d3ee&point=67e8f9&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
+| &nbsp; | &nbsp; |
+|:---:|:---:|
+| [**Explore repositories ↗**](https://github.com/Thanhismeee?tab=repositories) | [**View contributions ↗**](https://github.com/Thanhismeee?tab=overview) |
 
 </div>
 
