@@ -1,89 +1,155 @@
-<!--
-  GitHub profile README for @Thanhismeee.
-  To publish it, create a public repository named `Thanhismeee` and copy this file as README.md.
--->
+ <!-- GitHub Profile README for @Thanhismeee -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0f172a,50:172554,100:0e7490&text=Hi,%20I'm%20Thanh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=43&desc=Software%20Engineering%20%7C%20Full-stack%20Development&descSize=17&descAlignY=68" width="100%" alt="Hi, I'm Thanh — software engineering and full-stack development" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=220&section=header&text=THANH&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 
-<br />
+# Hi, I'm Thanh 👋
 
-### I build thoughtful web experiences, one useful feature at a time.
+### Software Engineering Student | Full-stack Developer in Progress
 
-[![GitHub](https://img.shields.io/badge/GitHub-Thanhismeee-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Thanhismeee)
-[![Profile views](https://komarev.com/ghpvc/?username=Thanhismeee&style=flat-square&color=0e7490&label=PROFILE+VIEWS)](https://github.com/Thanhismeee)
+Building practical software, exploring new technologies, and improving every day.
+
+<a href="https://github.com/Thanhismeee">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:thanhmdx12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Thanhismeee&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
 
 </div>
 
-<br />
+---
 
-## About
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>🧭 <strong>Currently</strong></td>
-    <td>Building <a href="https://github.com/Thanhismeee/ManabiHub"><strong>ManabiHub</strong></a>, a platform for learning Japanese.</td>
-  </tr>
-  <tr>
-    <td>⚙️ <strong>Working with</strong></td>
-    <td>Java, Spring Boot, React, TypeScript, and PostgreSQL.</td>
-  </tr>
-  <tr>
-    <td>🔍 <strong>Interested in</strong></td>
-    <td>Clean architecture, useful product experiences, and dependable deployments.</td>
-  </tr>
-  <tr>
-    <td>🤝 <strong>Open to</strong></td>
-    <td>Collaborating on practical web and education projects.</td>
-  </tr>
-</table>
+I'm a Software Engineering student passionate about building useful applications and continuously improving my engineering skills.
 
-## Featured project
+- 💻 **Current Focus:** Full-stack Web Development with Java, Spring Boot, React, and TypeScript.
+- ⚙️ **Backend:** Building RESTful APIs and learning software architecture with Spring Boot.
+- 🎨 **Frontend:** Creating responsive and user-friendly web interfaces.
+- 🤖 **AI & Productivity:** Exploring AI-powered tools to improve development workflows.
+- 📱 **Exploring:** Cross-platform mobile development with Flutter.
+- 🇯🇵 **Language:** Learning Japanese with a long-term goal of becoming a capable Bridge Software Engineer (BrSE).
+- 🌱 **Philosophy:** Kaizen (改善) — continuous improvement through consistent learning.
+
+> I believe great software comes from combining solid engineering fundamentals, thoughtful design, and a willingness to keep learning.
+
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
-### [ManabiHub ↗](https://github.com/Thanhismeee/ManabiHub)
+### 📚 ManabiHub
 
-**A full-stack Japanese-learning platform**
+**A Japanese Learning Platform**
 
-Team project · React + TypeScript frontend · Java 21 / Spring Boot API · PostgreSQL
-
-[![View repository](https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanhismeee/ManabiHub)
+<a href="https://github.com/Thanhismeee/ManabiHub">
+  <img src="https://img.shields.io/badge/Explore_ManabiHub-0E7490?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-## Toolbox
+ManabiHub is a team-based software engineering project designed to provide an integrated Japanese-learning experience.
+
+**Core Technologies**
+
+| Layer | Technologies |
+|:---|:---|
+| Frontend | React, TypeScript |
+| Backend | Java 21, Spring Boot 3 |
+| Database | PostgreSQL |
+| Infrastructure | Docker |
+| API | RESTful Architecture |
+
+**Engineering Focus**
+- Designing maintainable backend services.
+- Building RESTful APIs and database integration.
+- Managing application development through Git.
+- Improving the learning experience through technology.
+
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,php,html,css" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,flutter" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman" />
 
 </div>
 
-## GitHub activity
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-See my latest work, repositories, and contribution history on GitHub.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thanhismeee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-| &nbsp; | &nbsp; |
-|:---:|:---:|
-| [**Explore repositories ↗**](https://github.com/Thanhismeee?tab=repositories) | [**View contributions ↗**](https://github.com/Thanhismeee?tab=overview) |
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhismeee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanhismeee&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thanhismeee&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
-<br />
+---
+
+## 🎯 My Development Roadmap
+
+| Area | Current Direction |
+|:---|:---|
+| Backend Engineering | Java, Spring Boot, REST APIs |
+| Frontend Engineering | React, Next.js, TypeScript |
+| Database | PostgreSQL, MySQL |
+| DevOps | Docker, Git, Linux |
+| Mobile Development | Flutter |
+| Software Engineering | Clean Code, Design Patterns, System Design |
+| Japanese | JLPT, Technical Communication, BrSE |
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-*Keep learning · Keep building · Make it useful.*
+I'm always interested in learning, sharing knowledge, and collaborating on meaningful software projects.
+
+<a href="mailto:thanhmdx12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-thanhmdx12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Thanhismeee">
+  <img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ✨ Learn. Build. Improve. Repeat.
+
+*Thanks for visiting my profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=110&section=footer" width="100%" />
 
 </div>
